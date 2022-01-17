@@ -40,6 +40,7 @@ name is available.
     Anish Bhobe (KidRigger)
     Anton Yabchinskiy (a12n)
     Anutrix
+	rohit
     Aren Villanueva (kurikaesu)
     Ariel Manzur (punto-)
     Bartłomiej T. Listwon (Listwon)
